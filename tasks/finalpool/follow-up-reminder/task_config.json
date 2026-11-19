@@ -1,0 +1,11 @@
+{
+  "task_name": "follow-up-reminder",
+  "implementor": "lueyang-dev",
+  "needed_mcp_servers": [
+    "github",
+    "notion"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
