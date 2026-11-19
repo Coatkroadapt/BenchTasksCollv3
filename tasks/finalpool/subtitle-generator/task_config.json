@@ -1,0 +1,11 @@
+{
+  "task_name": "subtitle-generator",
+  "implementor": "haoze",
+  "needed_mcp_servers": [
+    "github",
+    "notion"
+  ],
+  "needed_local_tools": [
+    "claim_done"
+  ]
+}
